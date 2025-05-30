@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 const user = {
     name: 'Umair',
     imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
